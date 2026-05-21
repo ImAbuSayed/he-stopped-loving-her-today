@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The glow of the dashboard is lighting your face
+> We are leaving the city and picking up pace
+> So slide in the passenger, turn off your phone
+> Tonight I am making sure you are never alone
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
