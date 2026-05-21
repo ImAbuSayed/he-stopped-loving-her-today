@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/he-stopped-loving-her-today/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: He Stopped Loving Her Today](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/he-stopped-loving-her-today/) |
+| **Get License** | [Request Licensing for He Stopped Loving Her Today](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/he-stopped-loving-her-today/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `074e80c82f8abe634ac773bfe665f5ac7a52ebe179499d2534fbd20d80696df8` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
